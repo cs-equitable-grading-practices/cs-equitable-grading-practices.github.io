@@ -12,4 +12,4 @@ Our group is focused on developing a community of practice made up of faculty in
 
 {% assign date = '2023-11-03T16:48:00Z-0400' %}
 
-- Posted: {{ date | timeago }}
+- Posted: {{ date }}
