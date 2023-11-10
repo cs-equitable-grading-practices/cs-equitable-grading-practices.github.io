@@ -9,7 +9,7 @@ categories: meetings
 
 The first Equitable Grading Community of Practice Meeting will be held on **March 20, 2024 1:00 pm - 5:00 pm PST**  as a pre-conference event of the **2024 SIGCSE Technical Symposium in Portland, Oregon**.
 
-This event is the first event from a recently funded NSF grant (nos. ) that is promoting a community of practice model for adoption of equitable grading practices in CS classrooms. Equitable grading practices have been shown to better support student learning and can help increase student learning gains and retention. This event is the first in a series of meetings of the community of practice members to allow time for face-to-face interaction, planning, and sharing of ideas. 
+This event is the first event from a recently funded NSF grant (nos. 2235644, 2235337, 2235643) that is promoting a community of practice model for adoption of equitable grading practices in CS classrooms. Equitable grading practices have been shown to better support student learning and can help increase student learning gains and retention. This event is the first in a series of meetings of the community of practice members to allow time for face-to-face interaction, planning, and sharing of ideas. 
 
 
 ## Tenative Schedule
