@@ -21,7 +21,7 @@ This event is the first event from a recently funded NSF grant (nos. 2235644, 22
 | 1:45pm - 2:15pm | **Small group discussion** Your equitable grading journey |
 | 2:15pm - 3:00pm | **Grading Techniques Affinity Groups Speed Dating**. |
 | 3:00pm-3:30pm | **Break with snacks** |
-| 3:30pm-3:45pm | **Group share out** - what are some takeaways so far |
+| 3:30pm-3:45pm | **Group share out** Takeaways so far |
 | 3:45pm-4:15pm | **Small group discussion (part 2)** Things to implement in the upcoming year.|
 |4:15pm-4:30pm | **Individual work - finalize individual plans** |
 |4:30pm-5:00pm | **Next steps and virtual meeting scheduling**. Share out to group and discuss scheduling of future cohort meetings. |
