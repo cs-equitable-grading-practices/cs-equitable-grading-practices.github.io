@@ -35,6 +35,10 @@ Adrienne Decker<br>
 University at Buffalo<br>
 adrienne@buffalo.edu<br>
 
+Manuel Pérez-Quiñones<br>
+University of North Carolina Charlotte<br>
+perez.quinones@charlotte.edu<br>
+
 Bob Edmison<br>
 Virginia Tech<br>
 bedmison@vt.edu <br>
